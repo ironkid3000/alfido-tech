@@ -1,2 +1,2 @@
 # alfido-tech
-task 2 calculator
+task 3 calculator
